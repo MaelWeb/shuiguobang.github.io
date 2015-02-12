@@ -862,6 +862,9 @@ p {
     font-size: 18px;
     padding: 10px 20px;
 }
+.article-cont {
+    margin-bottom: 20px;
+}
 .artnav-black a {
     color: #1a1a1a;
 }
