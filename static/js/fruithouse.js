@@ -6,7 +6,6 @@ $(document).ready(function() {
         $('body,html').animate({
             scrollTop: 0
         }, 500);
-        console.log("test");
     });
     $.browserTips("../img/browsers.png");
 });
