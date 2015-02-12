@@ -876,6 +876,7 @@ p {
 }
 .art-title {
     color: #ccc;
+    text-align: center;
 }
 .article-reder:hover {
     color: #e85356;
